@@ -27,6 +27,6 @@ def daily_activity_summary(user):
 
 </pre>
 
-See http://bjk5.com... for more about how this helps App Engine scale and why your users care.
+See http://bjk5.com/post/7796556212/fast-and-slow-queues-on-app-engine for more about how this helps App Engine scale and why your users care.
 
 This code is [MIT licensed](http://en.wikipedia.org/wiki/MIT_License).
